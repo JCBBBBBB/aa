@@ -1,4 +1,4 @@
-카드 생성 (Create)]]
+카드 생성 (Create)]]55666
 
 A. 요청 정보
 - 요청 URL = /memo, 요청 방식 = POST
